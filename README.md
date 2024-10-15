@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ciao! Sono Giulia Turano, studentessa di Informatica per il Management all'Università di Bologna. 🎓<br><br>Mi interessa esplorare diverse aree dell'informatica, in particolare:<br><br>Intelligenza Artificiale 🤖<br>Analisi dei Dati 📊<br>Sviluppo Web 🌐<br>Sto ancora imparando e mi piace lavorare su progetti che mi permettano di crescere e sperimentare.<br><br>Sono sempre aperta a nuove opportunità per migliorare le mie competenze!
+Ciao! Sono Giulia Turano, studentessa di Informatica per il Management presso l'Università di Bologna. 🎓<br><br>Mi interessa esplorare diverse aree dell'informatica, in particolare:<br><br>Intelligenza Artificiale 🤖<br>Analisi dei Dati 📊<br>Sviluppo Web 🌐<br>Sto ancora imparando e mi piace lavorare su progetti che mi permettano di crescere e sperimentare.<br><br>Sono sempre aperta a nuove opportunità per migliorare le mie competenze!
 
 
 # 💻 Tech Stack:
